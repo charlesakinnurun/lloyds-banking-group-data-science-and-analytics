@@ -46,4 +46,4 @@ All reports will be handled with discretion and care.
 
 ## Attribution
 
-This Code of Conduct is based on community standards for open source projects and adapted for the **British Airways Data Science** project.
+This Code of Conduct is based on community standards for open source projects and adapted for the **Lloyds Banking Group Data Science** project.
